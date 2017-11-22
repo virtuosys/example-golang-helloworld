@@ -1,4 +1,4 @@
-# Developing for a Virtuosys node.
+# Developing for a Virtuosys Mesh.
 ## What's in the box?
 
     - ARMv7 A53 Processor (4xCPU)
@@ -14,9 +14,8 @@
     - Cooperating services such as sensor networks
     - Making devices ready for IOT
     - Internet connectivity for Low Power Devices
-    - Edge processing thoughout the train, imagine 3 devices per carriage
+    - Edge processing over a mesh
     - Video analysis and processing
-    - Mesh Cooperation
     - Custom Advertising screens
 
 # How do develop for it?
