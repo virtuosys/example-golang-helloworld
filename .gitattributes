@@ -1,0 +1,12 @@
+docs/images/create_app0.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/hello-in-browser.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/login.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/service_running.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/uploaded.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/add_image.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/create_app.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/created_app.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/deploying.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/find_ies.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/new_service_env.jpg filter=lfs diff=lfs merge=lfs -text
+docs/images/new_service_ports.jpg filter=lfs diff=lfs merge=lfs -text
